@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashutosh101026
 - Attending bechlor's degree in Computer Engneering at Thapar Institute of Engineering and Technology
-- 👀 I’m interested in  softwafe tech field.
+- 👀 I’m interested in  software tech field.
 - 🌱 I’m currently learning computer languages.
 - 
 Ashutosh101026/Ashutosh101026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
