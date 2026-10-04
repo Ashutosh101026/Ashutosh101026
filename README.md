@@ -7,7 +7,7 @@
 ---
 
 ### 🎓 About Me
-- 🎓 **Computer Engineering Student** at **Thapar Institute of Engineering & Technology** (2024–2028) | CGPA: **8.68**
+- 🎓 **Computer Engineering Student** at **Thapar Institute of Engineering & Technology** (2024–2028) | 
 - 💡 Passionate about **Machine Learning**, **Data Analytics**, and **Generative AI**
 - 🧠 Active problem solver with a strong foundation in **Data Structures & Algorithms (C++)**
 
