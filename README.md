@@ -35,14 +35,5 @@
 
 ---
 
-### 📊 GitHub & Problem Solving Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ashutosh101026&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh101026&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 📬 **Let's Connect!**
 Feel free to reach out via [Email](mailto:amehta2_be24@thapar.edu) or connect with me on [LinkedIn](https://linkedin.com/in/ashutosh-mehta-298859328)!
