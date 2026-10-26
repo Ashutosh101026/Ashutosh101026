@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Mehta</h1>
 <h3 align="center">Computer Engineering Student | Machine Learning | Deep Learning | Generative AI</h3>
 
-<p align="center">
-  <a href="https://github.com/Ashutosh101026">
-    <img src="https://komarev.com/ghpvc/?username=Ashutosh101026&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+
 
 ---
 
