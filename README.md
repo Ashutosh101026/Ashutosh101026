@@ -105,19 +105,6 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashutosh101026&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh101026&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashutosh101026&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
-
 ## 💻 Coding Profiles
 
 <p align="left">
